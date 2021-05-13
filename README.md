@@ -2,6 +2,8 @@
 ### Kata coding to warm myself up ;) 
 ##### (the latest are at the top)
 
+<5 kyu> PaginationHelper: https://www.codewars.com/kata/515bb423de843ea99400000a
+
 <6 kyu> Which are in?: https://www.codewars.com/kata/550554fd08b86f84fe000a58
 
 <6 kyu> Sort the odd: https://www.codewars.com/kata/578aa45ee9fd15ff4600090d
