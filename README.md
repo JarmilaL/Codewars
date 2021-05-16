@@ -2,6 +2,8 @@
 ### Kata coding to warm myself up ;) 
 ##### (the latest are at the top)
 
+<5 kyu> Directions Reduction: https://www.codewars.com/kata/550f22f4d758534c1100025a/java
+
 <5 kyu> PaginationHelper: https://www.codewars.com/kata/515bb423de843ea99400000a
 
 <6 kyu> Which are in?: https://www.codewars.com/kata/550554fd08b86f84fe000a58

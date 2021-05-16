@@ -41,5 +41,9 @@ public class Main {
         System.out.println(helper.pageIndex(20)); //should == -1
         System.out.println(helper.pageIndex(-10)); //should == -1
 
+        // Directions
+        Directions.dirReduc(new String[] {"west", "east", "south"});  // -> ["SOUTH"]
+        Directions.dirReduc(new String[] {"NORTH", "WEST", "SOUTH", "EAST"});  // -> ["NORTH", "WEST", "SOUTH", "EAST"]
+        Directions.dirReduc(new String[] {"NORTH", "EAST", "WEST", "SOUTH", "WEST", "WEST"});  // -> ["WEST", "WEST"]
     }
 }
