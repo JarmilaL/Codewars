@@ -45,5 +45,11 @@ public class Main {
         Directions.dirReduc(new String[] {"west", "east", "south"});  // -> ["SOUTH"]
         Directions.dirReduc(new String[] {"NORTH", "WEST", "SOUTH", "EAST"});  // -> ["NORTH", "WEST", "SOUTH", "EAST"]
         Directions.dirReduc(new String[] {"NORTH", "EAST", "WEST", "SOUTH", "WEST", "WEST"});  // -> ["WEST", "WEST"]
+
+        // Leetspeak
+        Leetspeak leetspeak = new Leetspeak();
+        System.out.println(leetspeak.encode("LeetSpeak"));
+        System.out.println(leetspeak.encode("Maruška"));
+
     }
 }

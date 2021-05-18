@@ -1,8 +1,10 @@
-# Codewars
+# Codewars 
 ### Kata coding to warm myself up ;) 
 ##### (the latest are at the top)
 
-<5 kyu> Directions Reduction: https://www.codewars.com/kata/550f22f4d758534c1100025a/java
+<6 kyu> L3375p34k: https://www.codewars.com/kata/543bfbecdef6345f52000e4d  (with tests)
+
+<5 kyu> Directions Reduction: https://www.codewars.com/kata/550f22f4d758534c1100025a/java  (with tests)
 
 <5 kyu> PaginationHelper: https://www.codewars.com/kata/515bb423de843ea99400000a
 
@@ -15,3 +17,4 @@
 <6 kyu> Sum of Digits / Digital Root: https://www.codewars.com/kata/541c8630095125aba6000c00
 
 <6 kyu> Create Phone Number: https://www.codewars.com/kata/525f50e3b73515a6db000b83
+
